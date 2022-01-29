@@ -1,0 +1,13 @@
+﻿l_polish:
+
+########## Species Name List
+ name_list_alliance_names:0 "Mass Effect - Przymierze Systemów"
+ name_list_asari-republic_names:0 "Mass Effect - Asari" 
+ name_list_cerberus_names:0 "Mass Effect - Cerberus"
+ name_list_quarian_names:0 "Mass Effect - Quarianie"
+ name_list_salarian_names:0 "Mass Effect - Salarianie"
+ name_list_turian_names:0 "Mass Effect - Turianie"
+ 
+ ########## Mass Effect Flags
+ FLAG_CATEGORY_masseffect:0 "Mass Effect złoto"
+ FLAG_CATEGORY_masseffectsilver:0 "Mass Effect srebro"

@@ -1,0 +1,13 @@
+﻿l_russian:
+
+########## Species Name List
+ name_list_alliance_names:0 "Mass Effect - Альянс систем"
+ name_list_asari-republic_names:0 "Mass Effect - Азари" 
+ name_list_cerberus_names:0 "Mass Effect - Цербер"
+ name_list_quarian_names:0 "Mass Effect - Кварианцы"
+ name_list_salarian_names:0 "Mass Effect - Саларианцы"
+ name_list_turian_names:0 "Mass Effect - Турианцы"
+ 
+ ########## Mass Effect Flags
+ FLAG_CATEGORY_masseffect:0 "Mass Effect золото"
+ FLAG_CATEGORY_masseffectsilver:0 "Mass Effect Серебряный" 

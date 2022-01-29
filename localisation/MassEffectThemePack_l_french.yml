@@ -1,0 +1,13 @@
+﻿l_french:
+
+########## Species Name List
+ name_list_alliance_names:0 "Mass Effect - Alliance"
+ name_list_asari-republic_names:0 "Mass Effect - Asari" 
+ name_list_cerberus_names:0 "Mass Effect - Cerberus"
+ name_list_quarian_names:0 "Mass Effect - Quarien"
+ name_list_salarian_names:0 "Mass Effect - Galarien"
+ name_list_turian_names:0 "Mass Effect - Turien"
+ 
+ ########## Mass Effect Flags
+ FLAG_CATEGORY_masseffect:0 "Mass Effect Or"
+ FLAG_CATEGORY_masseffectsilver:0 "Mass Effect Argent"

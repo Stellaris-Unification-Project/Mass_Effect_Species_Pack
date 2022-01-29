@@ -1,0 +1,52 @@
+#Random species names messing up with immersion, for example you can have ingame a IA salarian species with quarians appereance. So i have desactivated this file.
+old_MassEffect = {
+
+	Alliance = {
+		name = Human
+		plural = Humans
+		home_planet = Earth
+		home_system = Sun
+		name_list = "alliance_names"
+	}
+
+	Asari = {
+		name = Asari
+		plural = Asari 
+		home_planet = Thessia
+		home_system = Parnitha
+		name_list = "asari-republic_names"
+	}	
+	
+	Cerberus = {
+		name = Cerberus
+		plural = Cerberus
+		home_planet = Cronos
+		home_system = Anadius
+		name_list = "cerberus_names"
+	}
+
+	Quarian = {
+		name = Quarian
+		plural = Quarians
+		home_planet = Rannoch
+		home_system = Xotranehika
+		name_list = "quarian_names"
+	}
+
+	Salarian = {
+		name = Salarian
+		plural = Salarians
+		home_planet = SurKesh
+		home_system = Pranas
+		name_list = "salarian_names"
+	}
+	
+	Turian = {
+		name = Turian
+		plural = Turians
+		home_planet = Palaven
+		home_system = Trebia
+		name_list = "turian_names"
+	}	
+
+}
